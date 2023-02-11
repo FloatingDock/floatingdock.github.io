@@ -6,4 +6,18 @@
     <description>;ost recent changes in Floating Dock with links to updates.</description>
     <language>en</language>
   </channel>
+  
+  <item>
+    <title>Version 1 (10) develop (1 new feature)</title>
+    <link>https://floatingdock.github.io</link>
+    <sparkle:version>2.0</sparkle:version>
+    <sparkle:releaseNotesLink>
+        https://floatingdock.github.io/releases/1(10)-develop.html
+    </sparkle:releaseNotesLink>
+    <pubDate>Sat, 11 Feb 2023 23:05:00 +0000</pubDate>
+    <enclosure url="https://github.com/FloatingDock/FloatingDock/releases/download/v1(10)-develop/FloatingDock-1-10-develop.zip"
+               sparkle:edSignature="fKlNHhJU7UV/mxzn9O2Z4ArVFidQlpWDklWe28TzqkB2BkxlEGLo9nZAWCFIa7sKU3SEUlrGT1HDrra6SRAMAg=="
+               length="1909721"
+               type="application/octet-stream" />
+</item>
 </rss>
