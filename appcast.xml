@@ -3,9 +3,23 @@
   <channel>
     <title>Floating Dock Changelog</title>
     <link>https://floatingdock.github.io/appcast.xml</link>
-    <description>;ost recent changes in Floating Dock with links to updates.</description>
+    <description>Most recent changes in Floating Dock with links to updates.</description>
     <language>en</language>
   </channel>
+  
+  <item>
+    <title>Version 2 (13) develop (1 new feature)</title>
+    <link>https://floatingdock.github.io</link>
+    <sparkle:version>2.0</sparkle:version>
+    <sparkle:releaseNotesLink>
+        https://floatingdock.github.io/releases/2-develop.html
+    </sparkle:releaseNotesLink>
+    <pubDate>Sun, 12 Feb 2023 13:31:00 +0000</pubDate>
+    <enclosure url="https://github.com/FloatingDock/FloatingDock/releases/download/v2-develop/FloatingDock-2-13-develop.zipp"
+               sparkle:edSignature="N5sraDlfLmKLlnB8JSQYxrVpOks5O2Yx6QlGPxte7rRZuQxM1Jje1MKu9jAXOBM1vfRx+815CUDfDGd54Y2XDg=="
+               length="1924867"
+               type="application/octet-stream" />
+  </item>
   
   <item>
     <title>Version 1 (12) develop (2 new feature)</title>
