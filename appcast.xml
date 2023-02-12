@@ -8,6 +8,20 @@
   </channel>
   
   <item>
+    <title>Version 1 (12) develop (2 new feature)</title>
+    <link>https://floatingdock.github.io</link>
+    <sparkle:version>2.0</sparkle:version>
+    <sparkle:releaseNotesLink>
+        https://floatingdock.github.io/releases/1(12)-develop.html
+    </sparkle:releaseNotesLink>
+    <pubDate>Sat, 11 Feb 2023 23:05:00 +0000</pubDate>
+    <enclosure url="https://github.com/FloatingDock/FloatingDock/releases/download/v1(12)-develop/FloatingDock-1-12-develop.zip"
+               sparkle:edSignature="krhteJQMz/bFGd0cNjIvsPsd7OostUJVjgOXI9FTWf1i400vRTaD+fay4nsCtK8U/qzlp7dXaIb8TzEEH3sGDw=="
+               length="1922086"
+               type="application/octet-stream" />
+  </item>
+  
+  <item>
     <title>Version 1 (10) develop (1 new feature)</title>
     <link>https://floatingdock.github.io</link>
     <sparkle:version>2.0</sparkle:version>
@@ -19,5 +33,5 @@
                sparkle:edSignature="fKlNHhJU7UV/mxzn9O2Z4ArVFidQlpWDklWe28TzqkB2BkxlEGLo9nZAWCFIa7sKU3SEUlrGT1HDrra6SRAMAg=="
                length="1909721"
                type="application/octet-stream" />
-</item>
+  </item>
 </rss>
