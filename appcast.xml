@@ -8,7 +8,7 @@
   </channel>
   
   <item>
-    <title>Version 2 (25) develop (1 new feature)</title>
+    <title>Version 2 (25) develop (1 bug fix)</title>
     <link>https://floatingdock.github.io</link>
     <sparkle:version>2.0</sparkle:version>
     <sparkle:releaseNotesLink>
