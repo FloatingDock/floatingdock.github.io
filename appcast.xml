@@ -10,7 +10,8 @@
   <item>
     <title>Version 3 develop</title>
     <link>https://floatingdock.github.io</link>
-    <sparkle:version>2.0</sparkle:version>
+    <sparkle:version>48</sparkle:version>
+    <sparkle:shortVersionString>3</sparkle:shortVersionString>
     <sparkle:releaseNotesLink>
         https://floatingdock.github.io/releases/v3-develop.html
     </sparkle:releaseNotesLink>
